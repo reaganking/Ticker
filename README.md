@@ -39,6 +39,10 @@ In future, I plan to support other leagues, likely starting with MLB:
 * MLB livescore JSON:
    * http://gd2.mlb.com/components/game/mlb/year_2015/month_08/day_02/master_scoreboard.json
    
+* Edit (2018 season):
+   * Individual game boxscore: http://statsapi.mlb.com:80/api/v1/game/game_pk/boxscore
+   * full list of MLB APIs: http://statsapi.mlb.com/docs/
+   
 ## License
 
 Copyright 2016 [John Freed](https://github.com/jtf323) and [Stevie Howard](https://github.com/stvhwrd).
